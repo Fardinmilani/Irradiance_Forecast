@@ -1,0 +1,19 @@
+
+cff-version: 1.2.0
+
+message: "If you use this code, please cite this work."
+
+title: "Solar Irradiance Forecasting: Machine Learning Code and Experimental Results"
+
+authors:
+  - family-names: "Sheikh Milani"
+    given-names: "Fardin"
+
+  - family-names: "Solgi"
+    given-names: "Ehsan"
+
+  - family-names: "Gitinavard"
+    given-names: "Hossein"
+
+type: software
+license: MIT
